@@ -1,0 +1,4183 @@
+{
+  "emojis": [
+    {
+      "id": "FACE_WITH_TEARS_OF_JOY",
+      "emoji": "😂",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f602.svg",
+      "unicode": "1f602",
+      "label": "Face with tears of joy",
+      "type": "smileys"
+    },
+
+    {
+      "id": "SMILING_FACE_WITH_OPEN_MOUTH_AND_SMILING_EYES",
+      "emoji": "😄",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f604.svg",
+      "unicode": "1f604",
+      "label": "Smiling face with open mouth and smiling eyes",
+      "type": "smileys"
+    },
+
+    {
+      "id": "SMILING_FACE_WITH_OPEN_MOUTH",
+      "emoji": "😃",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f603.svg",
+      "unicode": "1f603",
+      "label": "Smiling face with open mouth",
+      "type": "smileys"
+    },
+
+    {
+      "id": "GRINNING_FACE",
+      "emoji": "😀",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f600.svg",
+      "unicode": "1f600",
+      "label": "Grinning face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "SMILING_FACE_WITH_SMILING_EYE",
+      "emoji": "😊",
+      "unicode": "1f60a",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f60a.svg",
+      "label": "Smiling face with similing eyes",
+
+      "type": "smileys"
+    },
+
+    {
+      "id": "WINKING_FACE",
+      "emoji": "😉",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f609.svg",
+      "unicode": "1f609",
+      "label": "winking face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "SMILING_FACE_WITH_HEART_EYE",
+      "emoji": "😍",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f60d.svg",
+      "unicode": "1f60d",
+      "label": "Smilign face with heart eye",
+      "type": "smileys"
+    },
+    {
+      "id": "FACE_THROWING_KISS",
+      "emoji": "😘",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f618.svg",
+      "unicode": "1f618",
+      "label": "Face throwing a kiss",
+      "type": "smileys"
+    },
+    {
+      "id": "KISSING_FACE_WITH_CLOSING_EYE",
+      "emoji": "😚",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f61a.svg",
+      "unicode": "1f61a",
+      "label": "Kissing face with closing eye",
+      "type": "smileys"
+    },
+    {
+      "id": "KISSING_FACE",
+      "emoji": "😗",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f617.svg",
+      "unicode": "1f617",
+      "label": "Kissing face",
+      "type": "smileys"
+    },
+    {
+      "id": "FACE_WITH_TONGUE_1",
+      "emoji": "😜",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f618.svg",
+      "unicode": "1f618",
+      "label": "Face with Stuck-Out Tongue and Winking Eye",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FACE_WITH_TONGUE_2",
+      "emoji": "😝",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f61d.svg",
+      "unicode": "1f61d",
+      "label": "Face with Stuck-Out Tongue and Tightly-Closed Eyes",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FACE_WITH_TONGUE_3",
+      "emoji": "😛",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f61b.svg",
+      "unicode": "1f61b",
+      "label": "Face with Stuck-Out Tongue",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FLUSHED_FACE",
+      "emoji": "😳",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f633.svg",
+      "unicode": "1f633",
+      "label": "Flushed Face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "GRINNING_FACE_WITH_SMILIGN_EYES",
+      "emoji": "😁",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f601.svg",
+      "unicode": "1f601",
+      "label": "Grinning Face with Smiling Eyes",
+      "type": "smileys"
+    },
+
+    {
+      "id": "PENSIVE_FACE",
+      "emoji": "😔",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f614.svg",
+      "unicode": "1f614",
+      "label": "Pensive face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "RELIEVED_FACE",
+      "emoji": "😌",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f60c.svg",
+      "unicode": "1f60c",
+      "label": "Relieved face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "UNAMUSED_FACE",
+      "emoji": "😒",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f612.svg",
+      "unicode": "1f612",
+      "label": "Unamused face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "DISAPPOINTED_FACE",
+      "emoji": "😞",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f61e.svg",
+      "unicode": "1f61e",
+      "label": "Disappointed face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "PERSEVERING_FACE",
+      "emoji": "😣",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f623.svg",
+      "unicode": "1f623",
+      "label": "Persevering Face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "CRYING_FACE",
+      "emoji": "😢",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f622.svg",
+      "unicode": "1f622",
+      "label": "Crying face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "LOUDLY_CRYING_FACE",
+      "emoji": "😭",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f62d.svg",
+      "unicode": "1f62d",
+      "label": "Loudly Crying Face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "SLEEPY_FACE",
+      "emoji": "😪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f62a.svg",
+      "unicode": "1f62a",
+      "label": "Sleepy Face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "DISAPPOINTED_BUT_RELIEVED_FACE",
+      "emoji": "😥",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f625.svg",
+      "unicode": "1f625",
+      "label": "Disappointed but Relieved Face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FACE_WITH_OPEN_MOUTH_AND_COLD_SWEAT",
+      "emoji": "😰",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f630.svg",
+      "unicode": "1f630",
+      "label": "Face with Open Mouth and Cold Sweat",
+      "type": "smileys"
+    },
+
+    {
+      "id": "SMILING_FACE_WITH_OPEN_MOUTH_AND_COLD_SWEAT",
+      "emoji": "😅",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f605.svg",
+      "unicode": "1f605",
+      "label": "Smiling Face with Open Mouth and Cold Sweat",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FACE_WITH_RAISED_EYEBROW",
+      "emoji": "🤨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f928.svg",
+      "unicode": "1f928",
+      "label": "face with raised eyebrow",
+      "type": "smileys"
+    },
+    {
+      "id": "FACE_WITH_MONOCOLE",
+      "emoji": "🧐",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9d0.svg",
+      "unicode": "1f9d0",
+      "label": "Face with monocole",
+      "type": "smileys"
+    },
+
+    {
+      "id": "NERD_FACE",
+      "emoji": "🤓",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f913.svg",
+      "unicode": "1f913",
+      "label": "Nerd face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "SMILING_FACE_WITH_SUNGLASSES",
+      "emoji": "😎",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f60e.svg",
+      "unicode": "1f60e",
+      "label": "smiling face with sunglasses",
+      "type": "smileys"
+    },
+
+    {
+      "id": "STAR_STRUCK",
+      "emoji": "🤩",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f929.svg",
+      "unicode": "1f929",
+      "label": "star-struck",
+      "type": "smileys"
+    },
+
+    {
+      "id": "PARTYING_FACE",
+      "emoji": "🥳",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f973.png",
+      "unicode": "1f973",
+      "label": "partying face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "SLIGHTLY_FROWNING_FACE",
+      "emoji": "🙁",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f641.svg",
+      "unicode": "1f641",
+      "label": "slightly frowning face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FROWNING_FACE",
+      "emoji": "☹️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/2639.svg",
+      "unicode": "2639",
+      "label": "frowning face",
+      "type": "smileys"
+    },
+    {
+      "id": "FACE_WITH_STEAM_FROM_NOSE",
+      "emoji": "😤",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f624.svg",
+      "unicode": "1f624",
+      "label": "face with steam from nose",
+      "type": "smileys"
+    },
+
+    {
+      "id": "ANGRY_FACE",
+      "emoji": "😠",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f620.svg",
+      "unicode": "1f620",
+      "label": "angry face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "POUTING_FACE",
+      "emoji": "😡",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f621.svg",
+      "unicode": "1f621",
+      "label": "pouting face",
+      "type": "smileys"
+    },
+    {
+      "id": "FACE_WITH_SYMBOLS_ON_MOUTH",
+      "emoji": "🤬",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f92c.svg",
+      "unicode": "1f92c",
+      "label": "face with symbols on mouth",
+      "type": "smileys"
+    },
+
+    {
+      "id": "EXPLODING_HEAD",
+      "emoji": "🤯",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f92f.svg",
+      "unicode": "1f92f",
+      "label": "exploding head",
+      "type": "smileys"
+    },
+
+    {
+      "id": "HOT_FACE",
+      "emoji": "🥵",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f975.svg",
+      "unicode": "1f975",
+      "label": "hot face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FACE_SCREAMING_IN_FEAR",
+      "emoji": "😱",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f631.svg",
+      "unicode": "1f631",
+      "label": "face screaming in fear ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FEARFUL_FACE",
+      "emoji": "😨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f628.svg",
+      "unicode": "1f628",
+      "label": "fearful face",
+      "type": "smileys"
+    },
+    {
+      "id": "HUGGING_FACE",
+      "emoji": "🤗",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f917.svg",
+      "unicode": "1f917",
+      "label": "hugging face",
+      "type": "smileys"
+    },
+    {
+      "id": "THINKING_FACE",
+      "emoji": "🤔",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f914.svg",
+      "unicode": "1f914",
+      "label": "thinking face",
+      "type": "smileys"
+    },
+    {
+      "id": "FACE_WITH_HAND_OVER_MOUTH",
+      "emoji": "🤭",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f92d.svg",
+      "unicode": "1f92d",
+      "label": "face with hand over mouth",
+      "type": "smileys"
+    },
+
+    {
+      "id": "YAWNING_FACE",
+      "emoji": "🥱",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f971.svg",
+      "unicode": "1f971",
+      "label": "yawning face",
+      "type": "smileys"
+    },
+    {
+      "id": "SHUSHING_FACE",
+      "emoji": "🤫",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f92b.svg",
+      "unicode": "1f92b",
+      "label": "shushing face ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "LYING_FACE",
+      "emoji": "🤥",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f925.svg",
+      "unicode": "1f925",
+      "label": "lying face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FACE_WITHOUT_MOUTH",
+      "emoji": "😶",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f636.svg",
+      "unicode": "1f636",
+      "label": "face without mouth ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "NEUTRAL_FACE",
+      "emoji": "😐",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f610.svg",
+      "unicode": "1f610",
+      "label": "neutral face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "EXPRESSIONLESS_FACE",
+      "emoji": "😑",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f611.svg",
+      "unicode": "1f611",
+      "label": "expressionless face",
+      "type": "smileys"
+    },
+
+    {
+      "id": "GRIMACING_FACE",
+      "emoji": "😬",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f62c.svg",
+      "unicode": "1f62c",
+      "label": "grimacing face ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FACE_WITH_ROLLING_EYES",
+      "emoji": "🙄",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f644.svg",
+      "unicode": "1f644",
+      "label": "face with rolling eyes ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "MONEY_MOUTH_FACE",
+      "emoji": "🤑",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f911.svg",
+      "unicode": "1f911",
+      "label": "money mouth face",
+      "type": "smileys"
+    },
+    {
+      "id": "BABY",
+      "emoji": "👶",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f476.svg",
+      "unicode": "1f476",
+      "label": "Baby",
+      "type": "smileys"
+    },
+    {
+      "id": "SMILING_FACE_WITH_HORNS",
+      "emoji": "😈",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f608.svg",
+      "unicode": "1f608",
+      "label": "Smiling face with horns ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "PILE_OF_POO",
+      "emoji": "💩",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4a9.svg",
+      "unicode": "1f4a9",
+      "label": "pile of poo",
+      "type": "smileys"
+    },
+    {
+      "id": "GHOST",
+      "emoji": "👻",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f47b.svg",
+      "unicode": "1f47b",
+      "label": "ghost",
+      "type": "smileys"
+    },
+
+    {
+      "id": "SKULL",
+      "emoji": "💀",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f480.svg",
+      "unicode": "1f480",
+      "label": "skull",
+      "type": "smileys"
+    },
+
+    {
+      "id": "ALIEN",
+      "emoji": "👽",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f47d.svg",
+      "unicode": "1f47d",
+      "label": "Alien",
+      "type": "smileys"
+    },
+
+    {
+      "id": "ROBOT",
+      "emoji": "🤖",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f916.svg",
+      "unicode": "1f916",
+      "label": "robot",
+      "type": "smileys"
+    },
+
+    {
+      "id": "PALMS_UP_TOGETHER",
+      "emoji": "🤲",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f932.svg",
+      "unicode": "1f932",
+      "label": "palms up together ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "OPEN_HANDS",
+      "emoji": "👐",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f450.svg",
+      "unicode": "1f450",
+      "label": "Open hands",
+      "type": "smileys"
+    },
+
+    {
+      "id": "RAISING_HANDS",
+      "emoji": "🙌",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f64c.svg",
+      "unicode": "1f64c",
+      "label": "raising hands ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "CLAPPING_HANDS",
+      "emoji": "👏",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f44f.svg",
+      "unicode": "1f44f",
+      "label": "clapping hands ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "HANDSHAKE",
+      "emoji": "🤝",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f91d.svg",
+      "unicode": "1f91d",
+      "label": "handshake",
+      "type": "smileys"
+    },
+    {
+      "id": "THUMBS_UP",
+      "emoji": "👍",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f44d.svg",
+      "unicode": "1f44d",
+      "label": "thumbs up",
+      "type": "smileys"
+    },
+
+    {
+      "id": "THUMBS_DOWN",
+      "emoji": "👎",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f44e.svg",
+      "unicode": "1f44e",
+      "label": "thumbs down",
+      "type": "smileys"
+    },
+
+    {
+      "id": "ONCOMING_FIST",
+      "emoji": "👊",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f44a.svg",
+      "unicode": "1f44a",
+      "label": "oncoming fist",
+      "type": "smileys"
+    },
+
+    {
+      "id": "RAISED_FIST",
+      "emoji": "✊",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/270a.svg",
+      "unicode": "270a",
+      "label": "raised fist",
+      "type": "smileys"
+    },
+
+    {
+      "id": "LEFT_FACING_FIST",
+      "emoji": "🤛",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f91b.svg",
+      "unicode": "1f91b",
+      "label": "left facing fist",
+      "type": "smileys"
+    },
+
+    {
+      "id": "RIGHT_FACING_FIST",
+      "emoji": "🤜",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f91c.svg",
+      "unicode": "1f91c",
+      "label": "right facing fist ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "CROSSED_FINGERS",
+      "emoji": "🤞",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f91e.svg",
+      "unicode": "1f91e",
+      "label": "Crossed fingers",
+      "type": "smileys"
+    },
+
+    {
+      "id": "VICTORY_HAND",
+      "emoji": "✌️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/270c.svg",
+      "unicode": "270c",
+      "label": "victory hand ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "LOVE_YOU_GESTURE",
+      "emoji": "🤟",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f91f.svg",
+      "unicode": "1f91f",
+      "label": "love you gesture",
+      "type": "smileys"
+    },
+
+    {
+      "id": "OK_HAND",
+      "emoji": "👌",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f44c.svg",
+      "unicode": "1f44c",
+      "label": "ok hand",
+      "type": "smileys"
+    },
+    {
+      "id": "PINCHING_HAND",
+      "emoji": "🤏",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f90f.svg",
+      "unicode": "1f90f",
+      "label": "pinching hand ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "WAVING_HAND",
+      "emoji": "👋",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f44b.svg",
+      "unicode": "1f44b",
+      "label": "Waving hand ",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FLEXED_BICEPS",
+      "emoji": "💪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4aa.svg",
+      "unicode": "1f4aa",
+      "label": "flexed biceps",
+      "type": "smileys"
+    },
+
+    {
+      "id": "BACKHAND_INDEX_POINTING_LEFT",
+      "emoji": "👈",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f448.svg",
+      "unicode": "1f448",
+      "label": "backhand index pointing left",
+      "type": "smileys"
+    },
+
+    {
+      "id": "WRITING_HAND",
+      "emoji": "✍️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/270d.svg",
+      "unicode": "270d",
+      "label": "writing hand",
+      "type": "smileys"
+    },
+
+    {
+      "id": "FOLDED_HANDS",
+      "emoji": "🙏",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f64f.svg",
+      "unicode": "1f64f",
+      "label": "folded hands ",
+      "type": "smileys"
+    },
+    {
+      "id": "SELFIE",
+      "emoji": "🤳",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f933.svg",
+      "unicode": "1f933",
+      "label": "Selfie",
+      "type": "smileys"
+    },
+    {
+      "id": "NAIL_POLISH",
+      "emoji": "💅",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f485.svg",
+      "unicode": "1f485",
+      "label": "Nail polish",
+      "type": "smileys"
+    },
+    {
+      "id": "FOOT",
+      "emoji": "🦶",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9b6.svg",
+      "unicode": "1f9b6",
+      "label": "Foot",
+      "type": "smileys"
+    },
+    {
+      "id": "EAR",
+      "emoji": "👂",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f442.svg",
+      "unicode": "1f442",
+      "label": "Ear",
+      "type": "smileys"
+    },
+    {
+      "id": "EAR_WITH_HEARIN_AID",
+      "emoji": "🦻",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9bb.svg",
+      "unicode": "1f9bb",
+      "label": "ear with hearing aid",
+      "type": "smileys"
+    },
+    {
+      "id": "NOSE",
+      "emoji": "👃",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f443.svg",
+      "unicode": "1f443",
+      "label": "Nose",
+      "type": "smileys"
+    },
+    {
+      "id": "TOOTH",
+      "emoji": "🦷",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9b7.svg",
+      "unicode": "1f9b7",
+      "label": "tooth",
+      "type": "smileys"
+    },
+    {
+      "id": "BONE",
+      "emoji": "🦴",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9b4.svg",
+      "unicode": "1f9b4",
+      "label": "Bone",
+      "type": "smileys"
+    },
+    {
+      "id": "EYES",
+      "emoji": "👀",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f440.svg",
+      "unicode": "1f440",
+      "label": "Eyes",
+      "type": "smileys"
+    },
+    {
+      "id": "EYE",
+      "emoji": "👁️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f441.svg",
+      "unicode": "1f441",
+      "label": "Eye",
+      "type": "smileys"
+    },
+    {
+      "id": "TONGUE",
+      "emoji": "👅",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f445.svg",
+      "unicode": "1f445",
+      "label": "Tongue",
+      "type": "smileys"
+    },
+    {
+      "id": "MOUTH",
+      "emoji": "👄",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f444.svg",
+      "unicode": "1f444",
+      "label": "Mouth",
+      "type": "smileys"
+    },
+    {
+      "id": "KISS_MARK",
+      "emoji": "💋",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f48b.svg",
+      "unicode": "1f48b",
+      "label": "Kiss mark",
+      "type": "smileys"
+    },
+
+    {
+      "id": "BRAIN",
+      "emoji": "🧠",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9e0.svg",
+      "unicode": "1f9e0",
+      "label": "brain",
+      "type": "smileys"
+    },
+
+    {
+      "id": "GIRL",
+      "emoji": "👧",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f466.svg",
+      "unicode": "1f467",
+      "label": "girl",
+      "type": "smileys"
+    },
+    {
+      "id": "BOY",
+      "emoji": "👦",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f466.svg",
+      "unicode": "1f466",
+      "label": "Boy",
+      "type": "smileys"
+    },
+    {
+      "id": "WOMAN",
+      "emoji": "👩",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f469.svg",
+      "unicode": "1f469",
+      "label": "Woman",
+      "type": "smileys"
+    },
+    {
+      "id": "PERSON",
+      "emoji": "🧑",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9d1.svg",
+      "unicode": "1f9d1",
+      "label": "Person",
+      "type": "smileys"
+    },
+
+    {
+      "id": "MAN",
+      "emoji": "👨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f468.svg",
+      "unicode": "1f468",
+      "label": "Man",
+      "type": "smileys"
+    },
+
+    {
+      "id": "WOMAN_CURLY_HAIR",
+      "emoji": "👩‍🦱",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f469-200d-1f9b1.svg",
+      "unicode": "1f469-200d-1f9b1",
+      "label": "Woman curly hair",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_CURLY_HAIR",
+      "emoji": "👨‍🦱",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f468-200d-1f9b1.svg",
+      "unicode": "1f468-200d-1f9b1",
+      "label": "man curly hair",
+      "type": "smileys"
+    },
+    {
+      "id": "WOMAN_RED_HAIR",
+      "emoji": "👩‍🦰",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f469-200d-1f9b0.svg",
+      "unicode": "1f469-200d-1f9b0",
+      "label": "woman red hair",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_RED_HAIR",
+      "emoji": "👨‍🦰",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f468-200d-1f9b0.svg",
+      "unicode": "1f468-200d-1f9b0",
+      "label": "man red hair",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_BLOND_HAIR",
+      "emoji": "👱",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f471-200d-2642-fe0f.svg",
+      "unicode": "1f471-200d-2642-fe0f",
+      "label": "man blond hair",
+      "type": "smileys"
+    },
+    {
+      "id": "WOMAN_BLOND_HAIR",
+      "emoji": "👱‍♀️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f471-200d-2640-fe0f.svg",
+      "unicode": "1f469-200d-2640-fe0f",
+      "label": "Woman blond hair",
+      "type": "smileys"
+    },
+    {
+      "id": "WOMAN_WHITE_HAIR",
+      "emoji": "👩‍🦳",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f469-200d-1f9b3.svg",
+      "unicode": "1f469-200d-1f9b3",
+      "label": "Woman white hair",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_WHITE_HAIR",
+      "emoji": "👨‍🦳",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f468-200d-1f9b2.svg",
+      "unicode": "1f468-200d-1f9b2",
+      "label": "Man white hair",
+      "type": "smileys"
+    },
+    {
+      "id": "WOMAN_BALD",
+      "emoji": "👩‍🦲",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f469-200d-1f9b2.svg",
+      "unicode": "1f469-200d-1f9b2",
+      "label": "Woman bald",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_BALD",
+      "emoji": "👨‍🦲",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f468-200d-1f9b2.svg",
+      "unicode": "1f468-200d-1f9b2",
+      "label": "Man bald",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_BEARD",
+      "emoji": "🧔",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9d4.svg",
+      "unicode": "1f9d4",
+      "label": "Person: beard",
+      "type": "smileys"
+    },
+    {
+      "id": "PERSON_GESTURING_NO",
+      "emoji": "🙅",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f645.svg",
+      "unicode": "1f645",
+      "label": "person gesturing NO",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_GESTURING_NO",
+      "emoji": "🙅",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f645-200d-2642-fe0f.svg",
+      "unicode": "1f645-200d-2642-fe0f",
+      "label": "Man gesturing NO",
+      "type": "smileys"
+    },
+    {
+      "id": "PERSON_GESTURING_OK",
+      "emoji": "🙆",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f646.svg",
+      "unicode": "1f646",
+      "label": "person gesturing OK",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_GESTURING_OK",
+      "emoji": "🙆‍♂️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f645-200d-2642-fe0f.svg",
+      "unicode": "1f646-200d-2642-fe0f",
+      "label": "Man gesturing OK",
+      "type": "smileys"
+    },
+    {
+      "id": "PERSON_FACEPLAMING",
+      "emoji": "🤦",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f926.svg",
+      "unicode": "1f926",
+      "label": "Person faceplaming",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_FACEPLAMING",
+      "emoji": "🤦‍♂️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f926-200d-2642-fe0f.svg",
+      "unicode": "1f926-200d-2642-fe0f",
+      "label": "Man faceplaming",
+      "type": "smileys"
+    },
+    {
+      "id": "PERSON_SHRUGGING",
+      "emoji": "🤷",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f937.svg",
+      "unicode": "1f937",
+      "label": "Person shrugging",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_SHRUGGING",
+      "emoji": "🤷‍♂️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f937-200d-2642-fe0f.svg",
+      "unicode": "1f937-200d-2642-fe0f",
+      "label": "Man shrugging",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_HEALTH_WORKER",
+      "emoji": "👨‍⚕️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f468-200d-2695-fe0f.svg",
+      "unicode": "1f468-200d-2695-fe0f",
+      "label": "Man health worker",
+      "type": "smileys"
+    },
+    {
+      "id": "WOMAN_HEALTH_WORKER",
+      "emoji": "👩‍⚕️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f469-200d-2695-fe0f.svg",
+      "unicode": "1f469-200d-2695-fe0f",
+      "label": "Woman health worker",
+      "type": "smileys"
+    },
+    {
+      "id": "OLD_WOMAN",
+      "emoji": "👵",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f475.svg",
+      "unicode": "1f475",
+      "label": "Old woman",
+      "type": "smileys"
+    },
+    {
+      "id": "OLD_PERSON",
+      "emoji": "🧓",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9d3.svg",
+      "unicode": "1f9d3",
+      "label": "Old person",
+      "type": "smileys"
+    },
+    {
+      "id": "OLD_MAN",
+      "emoji": "👴",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f474.svg",
+      "unicode": "1f474",
+      "label": "Old man",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_WITH_CHINESE_CAP",
+      "emoji": "👲",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f472.svg",
+      "unicode": "1f472",
+      "label": "Man with chinese cap",
+      "type": "smileys"
+    },
+    {
+      "id": "MAN_WEARIN_TURBAN",
+      "emoji": "👳",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f473-200d-2642-fe0f.svg",
+      "unicode": "1f473-200d-2642-fe0f",
+      "label": "Person man wearin turban",
+      "type": "smileys"
+    },
+    {
+      "id": "WOMAN_WEARIN_TURBAN",
+      "emoji": "👳‍♀️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f473-200d-2640-fe0f.svg",
+      "unicode": "1f473-200d-2640-fe0f",
+      "label": "Woman wearin turban",
+      "type": "smileys"
+    },
+    {
+      "id": "WOMAN_WITH_HEADSCARF",
+      "emoji": "🧕",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9d5.svg",
+      "unicode": "1f9d5",
+      "label": "Woman with headscarf",
+      "type": "smileys"
+    },
+    {
+      "id": "POLICE_OFFICIER",
+      "emoji": "👮",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f46e.svg",
+      "unicode": "1f46e",
+      "label": "Police officier",
+      "type": "smileys"
+    },
+    {
+      "id": "WOMAN_POLICE_OFFICIER",
+      "emoji": "👮‍♀️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f46e-200d-2640-fe0f.svg",
+      "unicode": "1f46e-200d-2640-fe0f",
+      "label": "Woman police officier",
+      "type": "smileys"
+    },
+    {
+      "id": "CONSTRUCTION_WORKER",
+      "emoji": "👷",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f477.svg",
+      "unicode": "1f477",
+      "label": "Construction worker",
+      "type": "smileys"
+    },
+    {
+      "id": "WOMAN_CONSTRUCTION_WORKER",
+      "emoji": "👷‍♀️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f477-200d-2640-fe0f.svg",
+      "unicode": "1f477-200d-2640-fe0f",
+      "label": "Woman construction worker",
+      "type": "smileys"
+    },
+    {
+      "id": "COUPLE_WITH_HEART",
+      "emoji": "👩‍❤️‍👨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f491.svg",
+      "unicode": "1f491",
+      "label": "Couple with heart",
+      "type": "smileys"
+    },
+    {
+      "id": "FAMILY_WOMAN_MAN_BOY_GIRL",
+      "emoji": "👨‍👩‍👧‍👦",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f468-200d-1f469-200d-1f467-200d-1f466.svg",
+      "unicode": "1f468-200d-1f469-200d-1f467-200d-1f466",
+      "label": "family: man, woman, girl, boy",
+      "type": "smileys"
+    },
+    {
+      "id": "DOG_FACE",
+      "emoji": "🐶",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f436.svg",
+      "unicode": "1f436",
+      "label": "Dog face",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "CAT_FACE",
+      "emoji": "🐱",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f431.svg",
+      "unicode": "1f431",
+      "label": "Cat face",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "MOUSE_FACE",
+      "emoji": "🐭",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f42d.svg",
+      "unicode": "1f42d",
+      "label": "Mouse face",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "HAMSTER",
+      "emoji": "🐹",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f439.svg",
+      "unicode": "1f439",
+      "label": "Hamster",
+      "type": "Animals & nature"
+    },
+
+    {
+      "id": "RABBIT",
+      "emoji": "🐰",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f430.svg",
+      "unicode": "1f430",
+      "label": "Rabbit",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "FOX",
+      "emoji": "🦊",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f98a.svg",
+      "unicode": "1f98a",
+      "label": "Fox",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "BEAR",
+      "emoji": "🐻",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f43b.svg",
+      "unicode": "1f43b",
+      "label": "Bear",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "PANDA",
+      "emoji": "🐼",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f43c.svg",
+      "unicode": "1f43c",
+      "label": "Panda",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "KOALA",
+      "emoji": "🐨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f428.svg",
+      "unicode": "1f428",
+      "label": "Koala",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "TIGER",
+      "emoji": "🐯",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f42f.svg",
+      "unicode": "1f42f",
+      "label": "Tiger",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "COW",
+      "emoji": "🐮",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f42e.svg",
+      "unicode": "1f42e",
+      "label": "Cow",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "PIG",
+      "emoji": "🐷",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f437.svg",
+      "unicode": "1f437",
+      "label": "PIG",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "FROG",
+      "emoji": "🐸",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f438.svg",
+      "unicode": "1f438",
+      "label": "Frog",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "MONKEY",
+      "emoji": "🐵",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f435.svg",
+      "unicode": "1f435",
+      "label": "Monkey",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "SEE_NO_EVIL_MONKEY",
+      "emoji": "🙈",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f648.svg",
+      "unicode": "1f648",
+      "label": "see-no-evil monkey",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "HEAR_NO_EVIL_MONKEY",
+      "emoji": "🙉",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f649.svg",
+      "unicode": "1f649",
+      "label": "hear-no-evil monkey",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "SPEAK_NO_EVIL_MONKEY",
+      "emoji": "🙊",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f64a.svg",
+      "unicode": "1f64a",
+      "label": "speak-no-evil monkey",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "SUN_WITH_FACE",
+      "emoji": "🌞",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f31e.svg",
+      "unicode": "1f31e",
+      "label": "sun with face ",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "SUN",
+      "emoji": "☀️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/2600.svg",
+      "unicode": "2600",
+      "label": "sun",
+      "type": "Animals & nature"
+    },
+
+    {
+      "id": "FULL_MOON_FACE",
+      "emoji": "🌝",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f31d.svg",
+      "unicode": "1f31d",
+      "label": "Full moon",
+      "type": "Animals & nature"
+    },
+
+    {
+      "id": "CRESCENT_MOON",
+      "emoji": "🌙",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f319.svg",
+      "unicode": "1f319",
+      "label": "crescent moon ",
+      "type": "Animals & nature"
+    },
+
+    {
+      "id": "STARS",
+      "emoji": "⭐",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/2b50.svg",
+      "unicode": "2b50",
+      "label": "stars",
+      "type": "Animals & nature"
+    },
+
+    {
+      "id": "SPRAKLES",
+      "emoji": "✨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/2728.svg",
+      "unicode": "2728",
+      "label": "sparkles ",
+      "type": "Animals & nature"
+    },
+
+    {
+      "id": "FIRE",
+      "emoji": "🔥",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f525.svg",
+      "unicode": "1f525",
+      "label": "fire ",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "CLOUD",
+      "emoji": "☁️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/2601.svg",
+      "unicode": "2601",
+      "label": "cloud",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "SUN_BEHIND_CLOUD",
+      "emoji": "⛅",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26c5.svg",
+      "unicode": "26c5",
+      "label": "sun behind cloud",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "CLOUD_WITH_LIGHTNING_AND_RAIN",
+      "emoji": "⛈️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26c8.svg",
+      "unicode": "26c8",
+      "label": "cloud with lightning and rain",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "SUN_BEHIND_SMALL_CLOUD",
+      "emoji": "🌤️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f324.svg",
+      "unicode": "1f324",
+      "label": "sun behind small cloud",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "SUN_BEHIND_LARGE_CLOUD",
+      "emoji": "⛅",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f325.svg",
+      "unicode": "1f325",
+      "label": "sun behind large cloud",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "SUN_BEHIND_RAIN_CLOUD",
+      "emoji": "🌦️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f326.svg",
+      "unicode": "1f326",
+      "label": "sun behind rain cloud",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "CLOUD_WITH_RAIN",
+      "emoji": "🌧️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f327.svg",
+      "unicode": "1f327",
+      "label": "cloud with rain",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "CLOUD_WITH_SNOW",
+      "emoji": "🌨️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f328.svg",
+      "unicode": "1f328",
+      "label": "cloud with snow",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "CLOUD_WITH_LIGHTNING",
+      "emoji": "🌩️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f329.svg",
+      "unicode": "1f329",
+      "label": "cloud with lightning",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "TORNADO",
+      "emoji": "🌪️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f32a.svg",
+      "unicode": "1f32a",
+      "label": "tornado",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "CYCLONE",
+      "emoji": "🌀",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f300.svg",
+      "unicode": "1f300",
+      "label": "cyclone",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "RAINBOW",
+      "emoji": "🌈",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f308.svg",
+      "unicode": "1f308",
+      "label": "rainbow",
+      "type": "Animals & nature"
+    },
+    {
+      "id": "SOCCER_BALL",
+      "emoji": "26bd",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26bd.svg",
+      "unicode": "26bd",
+      "label": "Soccer ball",
+      "type": "Activity"
+    },
+    {
+      "id": "BASKET_BALL",
+      "emoji": "🏀",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3c0.svg",
+      "unicode": "1f3c0",
+      "label": "Basket ball",
+      "type": "Activity"
+    },
+    {
+      "id": "DIRECT_HIT",
+      "emoji": "🎯",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3af.svg",
+      "unicode": "1f3af",
+      "label": "Direct hit",
+      "type": "Activity"
+    },
+    {
+      "id": "TROPHY",
+      "emoji": "🏆",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3c6.svg",
+      "unicode": "1f3c6",
+      "label": "Trophy",
+      "type": "Activity"
+    },
+    {
+      "id": "ARTISIT_PALETTE",
+      "emoji": "🎨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3a8.svg",
+      "unicode": "1f3a8",
+      "label": "Artist palette",
+      "type": "Activity"
+    },
+    {
+      "id": "CLAPPER_BOARD",
+      "emoji": "🎬",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3ac.svg",
+      "unicode": "1f3ac",
+      "label": "Clapper board",
+      "type": "Activity"
+    },
+    {
+      "id": "JACK_O_LANTERN",
+      "emoji": "🎃",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f383.svg",
+      "unicode": "1f383",
+      "label": "jack-o-lantern",
+      "type": "Activity"
+    },
+    {
+      "id": "CHRISTMAS_TREE",
+      "emoji": "🎄",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f384.svg",
+      "unicode": "1f384",
+      "label": "Christmas tree",
+      "type": "Activity"
+    },
+    {
+      "id": "FIREWORKS",
+      "emoji": "🎆",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f386.svg",
+      "unicode": "1f386",
+      "label": "Fireworks",
+      "type": "Activity"
+    },
+    {
+      "id": "SPARKLER",
+      "emoji": "🎇",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f387.svg",
+      "unicode": "1f387",
+      "label": "SPARKLER",
+      "type": "Activity"
+    },
+
+    {
+      "id": "FIRECRACKER",
+      "emoji": "🧨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9e8.svg",
+      "unicode": "1f9e8",
+      "label": "Firecracker",
+      "type": "Activity"
+    },
+
+    {
+      "id": "BALLON",
+      "emoji": "🎈",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f388.svg",
+      "unicode": "1f388",
+      "label": "Ballon",
+      "type": "Activity"
+    },
+    {
+      "id": "PARTY_POPPER",
+      "emoji": "🎉",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f389.svg",
+      "unicode": "1f389",
+      "label": "Party popper",
+      "type": "Activity"
+    },
+    {
+      "id": "CONFETTI_BALL",
+      "emoji": "🎊",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f38a.svg",
+      "unicode": "1f38a",
+      "label": "Confetti ball",
+      "type": "Activity"
+    },
+    {
+      "id": "JAPENESE_DOLL",
+      "emoji": "🎎",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f38e.svg",
+      "unicode": "1f38e",
+      "label": "Japenese doll",
+      "type": "Activity"
+    },
+    {
+      "id": "RIBBON",
+      "emoji": "🎀",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f380.svg",
+      "unicode": "1f380",
+      "label": "Ribbon",
+      "type": "Activity"
+    },
+    {
+      "id": "WRAPPED_GIFT",
+      "emoji": "🎁",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f381.svg",
+      "unicode": "1f381",
+      "label": "Wrapped gift",
+      "type": "Activity"
+    },
+    {
+      "id": "REMINDER_RIBBON",
+      "emoji": "🎗",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f397.svg",
+      "unicode": "1f397",
+      "label": "Reminder ribbon",
+      "type": "Activity"
+    },
+    {
+      "id": "ADMISSION_TICKET",
+      "emoji": "🎟️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f39f.svg",
+      "unicode": "1f39f",
+      "label": "Admission Ticket",
+      "type": "Activity"
+    },
+    {
+      "id": "TICKET",
+      "emoji": "🎫",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3ab.svg",
+      "unicode": "1f3ab",
+      "label": "Ticket",
+      "type": "Activity"
+    },
+    {
+      "id": "MILITARY_MEDAL",
+      "emoji": "🎖️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f396.svg",
+      "unicode": "1f396",
+      "label": "military medal",
+      "type": "Activity"
+    },
+    {
+      "id": "1ST_PLACE_MEDAL",
+      "emoji": "🥇",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f947.svg",
+      "unicode": "1f947",
+      "label": "1st place medal",
+      "type": "Activity"
+    },
+    {
+      "id": "2ND_PLACE_MEDAL",
+      "emoji": "🥈",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f948.svg",
+      "unicode": "1f948",
+      "label": "2nd place medal",
+      "type": "Activity"
+    },
+    {
+      "id": "3RD_PLACE_MEDAL",
+      "emoji": "🥉",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f949.svg",
+      "unicode": "1f949",
+      "label": "3rd place medal",
+      "type": "Activity"
+    },
+    {
+      "id": "BASEBALL",
+      "emoji": "⚾",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26be.svg",
+      "unicode": "26be",
+      "label": "baseball",
+      "type": "Activity"
+    },
+    {
+      "id": "SOFTBALL",
+      "emoji": "🥎",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f94e.svg",
+      "unicode": "1f94e",
+      "label": "softball",
+      "type": "Activity"
+    },
+    {
+      "id": "VOLLEYBALL",
+      "emoji": "🏐",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3d0.svg",
+      "unicode": "1f3d0",
+      "label": "Volley ball",
+      "type": "Activity"
+    },
+    {
+      "id": "AMERICAN_FOOTBALL",
+      "emoji": "🏈",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3c8.svg",
+      "unicode": "1f3c8",
+      "label": "American football",
+      "type": "Activity"
+    },
+    {
+      "id": "TENNIS",
+      "emoji": "🎾",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3be.svg",
+      "unicode": "1f3be",
+      "label": "Tennis",
+      "type": "Activity"
+    },
+    {
+      "id": "BOWLING",
+      "emoji": "🎳",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3b3.svg",
+      "unicode": "1f3b3",
+      "label": "Bowling",
+      "type": "Activity"
+    },
+    {
+      "id": "BOXING_GLOVE",
+      "emoji": "🥊",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f94a.svg",
+      "unicode": "1f94a",
+      "label": "Boxing flove",
+      "type": "Activity"
+    },
+    {
+      "id": "MARTIAL_ARTS_UNIFORM",
+      "emoji": "🥋",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f94b.svg",
+      "unicode": "1f94b",
+      "label": "Martial arts uniform",
+      "type": "Activity"
+    },
+    {
+      "id": "POOL_8_BALL",
+      "emoji": "🎱",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3b1.svg",
+      "unicode": "1f3b1",
+      "label": "Pool 8 ball",
+      "type": "Activity"
+    },
+    {
+      "id": "CRYSTAL_BALL",
+      "emoji": "🔮",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f52e.svg",
+      "unicode": "1f52e",
+      "label": "Crsytal ball",
+      "type": "Activity"
+    },
+    {
+      "id": "VIDEO_GAME",
+      "emoji": "🎮",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3ae.svg",
+      "unicode": "1f3ae",
+      "label": "Video game",
+      "type": "Activity"
+    },
+    {
+      "id": "JOYSTICK",
+      "emoji": "🕹️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f579.svg",
+      "unicode": "1f579",
+      "label": "JOYSTICKe",
+      "type": "Activity"
+    },
+    {
+      "id": "GAME_DIE",
+      "emoji": "🎲",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3b2.svg",
+      "unicode": "1f3b2",
+      "label": "Game die",
+      "type": "Activity"
+    },
+    {
+      "id": "PUZZLE_PIECE",
+      "emoji": "🧩",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9e9.svg",
+      "unicode": "1f9e9",
+      "label": "Puzzle piece",
+      "type": "Activity"
+    },
+    {
+      "id": "TEDDY_BEAR",
+      "emoji": "🧸",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9f8.svg",
+      "unicode": "1f9f8",
+      "label": "Teddy bear",
+      "type": "Activity"
+    },
+    {
+      "id": "CHESS_PAWN",
+      "emoji": "♟️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/265f.svg",
+      "unicode": "265f",
+      "label": "Chess pawn",
+      "type": "Activity"
+    },
+    {
+      "id": "JOKER",
+      "emoji": "🃏",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f0cf.svg",
+      "unicode": "1f0cf",
+      "label": "Joker",
+      "type": "Activity"
+    },
+    {
+      "id": "CROWN",
+      "emoji": "👑",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f451.svg",
+      "unicode": "1f451",
+      "label": "Crown",
+      "type": "Activity"
+    },
+    {
+      "id": "GRADUATION_CAP",
+      "emoji": "🎓",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f451.svg",
+      "unicode": "1f393",
+      "label": "graduation cap",
+      "type": "Activity"
+    },
+    {
+      "id": "MUSICAL_SCORE",
+      "emoji": "🎼",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3bc.svg",
+      "unicode": "1f3bc",
+      "label": "Musical score",
+      "type": "Activity"
+    },
+    {
+      "id": "MUSICAL_NOTE",
+      "emoji": "🎵",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3b5.svg",
+      "unicode": "1f3b5",
+      "label": "Musical note",
+      "type": "Activity"
+    },
+    {
+      "id": "MUSICAL_NOTES",
+      "emoji": "🎶",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3b6.svg",
+      "unicode": "1f3b6",
+      "label": "Musical notes",
+      "type": "Activity"
+    },
+    {
+      "id": "MICROPHONE",
+      "emoji": "🎤",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3a4.svg",
+      "unicode": "1f3a4",
+      "label": "Microphone",
+      "type": "Activity"
+    },
+    {
+      "id": "HEADPHONE",
+      "emoji": "🎧",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3a7.svg",
+      "unicode": "1f3a7",
+      "label": "Headphone",
+      "type": "Activity"
+    },
+    {
+      "id": "RADIO",
+      "emoji": "📻",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4fb.svg",
+      "unicode": "1f4fb",
+      "label": "Radio",
+      "type": "Activity"
+    },
+    {
+      "id": "GEM_STONE",
+      "emoji": "💎",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f48e.svg",
+      "unicode": "1f48e",
+      "label": "Gem stone",
+      "type": "Objects"
+    },
+    {
+      "id": "RING",
+      "emoji": "💍",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f48d.svg",
+      "unicode": "1f48d",
+      "label": "Ring",
+      "type": "Objects"
+    },
+    {
+      "id": "BELL",
+      "emoji": "🔔",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f514.svg",
+      "unicode": "1f514",
+      "label": "Bell",
+      "type": "Objects"
+    },
+
+    {
+      "id": "TELEPHONE",
+      "emoji": "☎️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/260e.svg",
+      "unicode": "260e",
+      "label": "Telephone",
+      "type": "Objects"
+    },
+    {
+      "id": "MAGNIFYING_GLASS_TILTED_RIGHT",
+      "emoji": "🔎",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f50e.svg",
+      "unicode": "1f50e",
+      "label": "magnifying glass tilted right",
+      "type": "Objects"
+    },
+    {
+      "id": "MAGNIFYING_GLASS_TILTED_LEFT",
+      "emoji": "🔎",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f50d.svg",
+      "unicode": "1f50d",
+      "label": "magnifying glass tilted left",
+      "type": "Objects"
+    },
+    {
+      "id": "OPEN_BOOK",
+      "emoji": "📖",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4d6.svg",
+      "unicode": "1f4d6",
+      "label": "Open book",
+      "type": "Objects"
+    },
+    {
+      "id": "NEWSPAPPER",
+      "emoji": "📰",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4f0.svg",
+      "unicode": "1f4f0",
+      "label": "Newspapper",
+      "type": "Objects"
+    },
+    {
+      "id": "MONEY_BAG",
+      "emoji": "💰",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4b0.svg",
+      "unicode": "1f4b0",
+      "label": "Money bag",
+      "type": "Objects"
+    },
+    {
+      "id": "DOLLAR_BANKOTE",
+      "emoji": "💵",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4b5.svg",
+      "unicode": "1f4b5",
+      "label": "Dollar bankote",
+      "type": "Objects"
+    },
+    {
+      "id": "EURO_BANKOTE",
+      "emoji": "💶",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4b6.svg",
+      "unicode": "1f4b6",
+      "label": "Euro bankote",
+      "type": "Objects"
+    },
+    {
+      "id": "EMAIL",
+      "emoji": "📧",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4e7.svg",
+      "unicode": "1f4e7",
+      "label": "Email",
+      "type": "Objects"
+    },
+    {
+      "id": "PUSHIN",
+      "emoji": "📧",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4cc.svg",
+      "unicode": "1f4cc",
+      "label": "Pushin",
+      "type": "Objects"
+    },
+    {
+      "id": "MEMO",
+      "emoji": "📝",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4dd.svg",
+      "unicode": "1f4dd",
+      "label": "Memo",
+      "type": "Objects"
+    },
+    {
+      "id": "WATCH",
+      "emoji": "⌚",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/231a.svg",
+      "unicode": "231a",
+      "label": "Watch",
+      "type": "Objects"
+    },
+    {
+      "id": "LAPTOP_COMPUTER",
+      "emoji": "💻",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4bb.svg",
+      "unicode": "1f4bb",
+      "label": "Laptop computer",
+      "type": "Objects"
+    },
+    {
+      "id": "ALARM_CLOCK",
+      "emoji": "⏰",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/23f0.svg",
+      "unicode": "23f0",
+      "label": "Alarm clock",
+      "type": "Objects"
+    },
+    {
+      "id": "LIGHT_BULB",
+      "emoji": "💡",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4a1.svg",
+      "unicode": "1f4a1",
+      "label": "Light bulb",
+      "type": "Objects"
+    },
+    {
+      "id": "KEY",
+      "emoji": "🔑",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f511.svg",
+      "unicode": "1f511",
+      "label": "Key",
+      "type": "Objects"
+    },
+    {
+      "id": "LOCKED_WITH_PEN",
+      "emoji": "🔏",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f50f.svg",
+      "unicode": "1f50f",
+      "label": "Locked with pen",
+      "type": "Objects"
+    },
+    {
+      "id": "LOCKED_WITH_KEY",
+      "emoji": "🔐",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f510.svg",
+      "unicode": "1f510",
+      "label": "Locked with key",
+      "type": "Objects"
+    },
+    {
+      "id": "LOCKED",
+      "emoji": "🔒",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f512.svg",
+      "unicode": "1f512",
+      "label": "Locked",
+      "type": "Objects"
+    },
+    {
+      "id": "UNLOCKED",
+      "emoji": "🔓",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f513.svg",
+      "unicode": "1f513",
+      "label": "Unlocked",
+      "type": "Objects"
+    },
+    {
+      "id": "RED_HEART",
+      "emoji": "❤️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/2764.svg",
+      "unicode": "2764",
+      "label": "red heart",
+      "type": "Symbols"
+    },
+    {
+      "id": "ORANGE_HEART",
+      "emoji": "🧡",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9e1.svg",
+      "unicode": "1f9e1",
+      "label": "orange heart",
+      "type": "Symbols"
+    },
+    {
+      "id": "YELLOW_HEART",
+      "emoji": "💛",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f49b.svg",
+      "unicode": "1f49b",
+      "label": "Yellow heart",
+      "type": "Symbols"
+    },
+    {
+      "id": "GREEN_HEART",
+      "emoji": "💚",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f49a.svg",
+      "unicode": "1f49a",
+      "label": "Green heart",
+      "type": "Symbols"
+    },
+    {
+      "id": "BLUE_HEART",
+      "emoji": "💙",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f499.svg",
+      "unicode": "1f499",
+      "label": "Blue heart",
+      "type": "Symbols"
+    },
+    {
+      "id": "PURPLE_HEART",
+      "emoji": "💜",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f49c.svg",
+      "unicode": "1f49c",
+      "label": "Purple heart",
+      "type": "Symbols"
+    },
+    {
+      "id": "BROWN_HEART",
+      "emoji": "🤎",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f90e.svg",
+      "unicode": "1f90e",
+      "label": "brown heart",
+      "type": "Symbols"
+    },
+    {
+      "id": "WHITE_HEART",
+      "emoji": "🤍",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f90d.svg",
+      "unicode": "1f90d",
+      "label": "White heart",
+      "type": "Symbols"
+    },
+    {
+      "id": "BLACK_HEART",
+      "emoji": "🖤",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f5a4.svg",
+      "unicode": "1f5a4",
+      "label": "Black heart",
+      "type": "Symbols"
+    },
+    {
+      "id": "HUNDRED_POINTS",
+      "emoji": "💯",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4af.svg",
+      "unicode": "1f4af",
+      "label": "Hundred points",
+      "type": "Symbols"
+    },
+    {
+      "id": "ANGER_SYMBOL",
+      "emoji": "💢",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4a2.svg",
+      "unicode": "1f4a2",
+      "label": "Anger symbol",
+      "type": "Symbols"
+    },
+    {
+      "id": "COLLISION",
+      "emoji": "💥",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4a5.svg",
+      "unicode": "1f4a5",
+      "label": "collision",
+      "type": "Symbols"
+    },
+    {
+      "id": "DIZZY",
+      "emoji": "💫",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4ab.svg",
+      "unicode": "1f4ab",
+      "label": "Dizzy",
+      "type": "Symbols"
+    },
+    {
+      "id": "BOMB",
+      "emoji": "💣",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4a3.svg",
+      "unicode": "1f4a3",
+      "label": "Bomb",
+      "type": "Symbols"
+    },
+    {
+      "id": "SPEECH_BALLON",
+      "emoji": "💬",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4ac.svg",
+      "unicode": "1f4ac",
+      "label": "Speech ballon",
+      "type": "Symbols"
+    },
+
+    {
+      "id": "CHECK_MARK_BUTTON",
+      "emoji": "✅",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/2705.svg",
+      "unicode": "2705",
+      "label": "Check mark button",
+      "type": "Symbols"
+    },
+    {
+      "id": "CROSS_MARK",
+      "emoji": "❌",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/274c.svg",
+      "unicode": "274c",
+      "label": "Cross mark",
+      "type": "Symbols"
+    },
+    {
+      "id": "MEGAPHONE",
+      "emoji": "📣",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f4e3.svg",
+      "unicode": "1f4e3",
+      "label": "Megaphone",
+      "type": "Symbols"
+    },
+    {
+      "id": "MUTED_SPEAKER",
+      "emoji": "🔇",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f507.svg",
+      "unicode": "1f507",
+      "label": "Muted speaker",
+      "type": "Symbols"
+    },
+    {
+      "id": "NO_ENTRY",
+      "emoji": "⛔",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26d4.svg",
+      "unicode": "26d4",
+      "label": "No entry",
+      "type": "Symbols"
+    },
+    {
+      "id": "GRAPES",
+      "emoji": "🍇",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f347.svg",
+      "unicode": "1f347",
+      "label": "Grapes",
+      "type": "Food"
+    },
+    {
+      "id": "MELON",
+      "emoji": "🍈",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f348.svg",
+      "unicode": "1f348",
+      "label": "Melon",
+      "type": "Food"
+    },
+    {
+      "id": "WTAERMELON",
+      "emoji": "🍉",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f349.svg",
+      "unicode": "1f349",
+      "label": "WaterMelon",
+      "type": "Food"
+    },
+    {
+      "id": "TANGERINE",
+      "emoji": "🍊",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f34a.svg",
+      "unicode": "1f34a",
+      "label": "Tangerine",
+      "type": "Food"
+    },
+    {
+      "id": "LEMON",
+      "emoji": "🍋",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f34b.svg",
+      "unicode": "1f34b",
+      "label": "Lemon",
+      "type": "Food"
+    },
+    {
+      "id": "BANANA",
+      "emoji": "🍌",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f34c.svg",
+      "unicode": "1f34c",
+      "label": "Banana",
+      "type": "Food"
+    },
+    {
+      "id": "PINEAPPLE",
+      "emoji": "🍍",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f34d.svg",
+      "unicode": "1f34d",
+      "label": "Pineapple",
+      "type": "Food"
+    },
+    {
+      "id": "MANGO",
+      "emoji": "🥭",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f96d.svg",
+      "unicode": "1f96d",
+      "label": "Mango",
+      "type": "Food"
+    },
+    {
+      "id": "RED_APPLE",
+      "emoji": "🍎",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f34e.svg",
+      "unicode": "1f34e",
+      "label": "Red apple",
+      "type": "Food"
+    },
+    {
+      "id": "GREEN_APPLE",
+      "emoji": "🍏",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f34f.svg",
+      "unicode": "1f34f",
+      "label": "Green apple",
+      "type": "Food"
+    },
+    {
+      "id": "PEAR",
+      "emoji": "🍐",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f350.svg",
+      "unicode": "1f350",
+      "label": "Pear",
+      "type": "Food"
+    },
+    {
+      "id": "PEACH",
+      "emoji": "🍑",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f351.svg",
+      "unicode": "1f351",
+      "label": "PEACH",
+      "type": "Food"
+    },
+    {
+      "id": "CHERRIES",
+      "emoji": "🍒",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f352.svg",
+      "unicode": "1f352",
+      "label": "Cherries",
+      "type": "Food"
+    },
+    {
+      "id": "STRAWBERRY",
+      "emoji": "🍓",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f353.svg",
+      "unicode": "1f353",
+      "label": "STRAWBERRY",
+      "type": "Food"
+    },
+    {
+      "id": "KIWI",
+      "emoji": "🥝",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f95d.svg",
+      "unicode": "1f95d",
+      "label": "Kiwi",
+      "type": "Food"
+    },
+    {
+      "id": "TOMATO",
+      "emoji": "🍅",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f345.svg",
+      "unicode": "1f345",
+      "label": "Tomato",
+      "type": "Food"
+    },
+    {
+      "id": "COCONUT",
+      "emoji": "🥥",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f965.svg",
+      "unicode": "1f965",
+      "label": "coconut",
+      "type": "Food"
+    },
+    {
+      "id": "AVOCADO",
+      "emoji": "🥑",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f951.svg",
+      "unicode": "1f951",
+      "label": "AVOCADO",
+      "type": "Food"
+    },
+    {
+      "id": "EGGPLANT",
+      "emoji": "🍆",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f346.svg",
+      "unicode": "1f346",
+      "label": "eggplant",
+      "type": "Food"
+    },
+    {
+      "id": "POTATO",
+      "emoji": "🥔",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f954.svg",
+      "unicode": "1f954",
+      "label": "Potato",
+      "type": "Food"
+    },
+    {
+      "id": "CARROT",
+      "emoji": "🥕",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f955.svg",
+      "unicode": "1f955",
+      "label": "Carrot",
+      "type": "Food"
+    },
+    {
+      "id": "EAR_OF_CORN",
+      "emoji": "🌽",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f33d.svg",
+      "unicode": "1f33d",
+      "label": "Ear of corn",
+      "type": "Food"
+    },
+    {
+      "id": "HOT_PEPPER",
+      "emoji": "🌶️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f336.svg",
+      "unicode": "1f336",
+      "label": "hot pepper",
+      "type": "Food"
+    },
+    {
+      "id": "CUCUMBER",
+      "emoji": "🥒",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f952.svg",
+      "unicode": "1f952",
+      "label": "CUCUMBER",
+      "type": "Food"
+    },
+    {
+      "id": "LEAFY_GREEN",
+      "emoji": "🥬",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f96c.svg",
+      "unicode": "1f96c",
+      "label": "Leafy green",
+      "type": "Food"
+    },
+    {
+      "id": "BROCCOLI",
+      "emoji": "🥦",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f966.svg",
+      "unicode": "1f966",
+      "label": "Broccoli",
+      "type": "Food"
+    },
+    {
+      "id": "GARLIC",
+      "emoji": "🧄",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9c4.svg",
+      "unicode": "1f9c4",
+      "label": "Garlic",
+      "type": "Food"
+    },
+    {
+      "id": "ONION",
+      "emoji": "🧅",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9c5.svg",
+      "unicode": "1f9c5",
+      "label": "Onion",
+      "type": "Food"
+    },
+    {
+      "id": "MUSHROOM",
+      "emoji": "🍄",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f344.svg",
+      "unicode": "1f344",
+      "label": "MUSHROOM",
+      "type": "Food"
+    },
+    {
+      "id": "PEANUTS",
+      "emoji": "🥜",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f95c.svg",
+      "unicode": "1f95c",
+      "label": "Peanuts",
+      "type": "Food"
+    },
+    {
+      "id": "CHESTNUT",
+      "emoji": "🌰",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f330.svg",
+      "unicode": "1f330",
+      "label": "CHESTNUT",
+      "type": "Food"
+    },
+    {
+      "id": "BREAD",
+      "emoji": "🍞",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f35e.svg",
+      "unicode": "1f35e",
+      "label": "Bread",
+      "type": "Food"
+    },
+    {
+      "id": "CROISSANT",
+      "emoji": "🥐",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f950.svg",
+      "unicode": "1f950",
+      "label": "CROISSANT",
+      "type": "Food"
+    },
+    {
+      "id": "BAGUETTE_BREAD",
+      "emoji": "🥖",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f956.svg",
+      "unicode": "1f956",
+      "label": "baguette bread",
+      "type": "Food"
+    },
+    {
+      "id": "PRETZEL",
+      "emoji": "🥨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f968.svg",
+      "unicode": "1f968",
+      "label": "Pretzel",
+      "type": "Food"
+    },
+    {
+      "id": "BAGEL",
+      "emoji": "🥯",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f96f.svg",
+      "unicode": "1f96f",
+      "label": "BAGEL",
+      "type": "Food"
+    },
+    {
+      "id": "PANCAKES",
+      "emoji": "🥞",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f95e.svg",
+      "unicode": "1f95e",
+      "label": "pancakes",
+      "type": "Food"
+    },
+    {
+      "id": "WAFFLE",
+      "emoji": "🧇",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9c7.svg",
+      "unicode": "1f9c7",
+      "label": "Waffle",
+      "type": "Food"
+    },
+    {
+      "id": "CHEESE_WEDGE",
+      "emoji": "🧀",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9c0.svg",
+      "unicode": "1f9c0",
+      "label": "Cheese wedge",
+      "type": "Food"
+    },
+    {
+      "id": "MEAT_ON_BONE",
+      "emoji": "🍖",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f356.svg",
+      "unicode": "1f356",
+      "label": "Meat on bone",
+      "type": "Food"
+    },
+    {
+      "id": "POULTRY_LEG",
+      "emoji": "🍗",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f357.svg",
+      "unicode": "1f357",
+      "label": "Poultry leg",
+      "type": "Food"
+    },
+    {
+      "id": "CUT_OF_MEAT",
+      "emoji": "🥩",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f969.svg",
+      "unicode": "1f969",
+      "label": "cut of meat",
+      "type": "Food"
+    },
+    {
+      "id": "BACON",
+      "emoji": "🥓",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f953.svg",
+      "unicode": "1f953",
+      "label": "Bacon",
+      "type": "Food"
+    },
+    {
+      "id": "HAMBURGER",
+      "emoji": "🍔",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f354.svg",
+      "unicode": "1f354",
+      "label": "Hamburger",
+      "type": "Food"
+    },
+    {
+      "id": "FRENCH_FRIES",
+      "emoji": "🍟",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f35f.svg",
+      "unicode": "1f35f",
+      "label": "French fries",
+      "type": "Food"
+    },
+    {
+      "id": "PIZZA",
+      "emoji": "🍕",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f355.svg",
+      "unicode": "1f355",
+      "label": "Pizza",
+      "type": "Food"
+    },
+    {
+      "id": "HOT_DOG",
+      "emoji": "🌭",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f32d.svg",
+      "unicode": "1f32d",
+      "label": "Hot dof",
+      "type": "Food"
+    },
+    {
+      "id": "SANDWICH",
+      "emoji": "🥪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f96a.svg",
+      "unicode": "1f96a",
+      "label": "Sandwich",
+      "type": "Food"
+    },
+    {
+      "id": "TACO",
+      "emoji": "🌮",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f32e.svg",
+      "unicode": "1f32e",
+      "label": "TACO",
+      "type": "Food"
+    },
+    {
+      "id": "BURRITO",
+      "emoji": "🌯",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f32f.svg",
+      "unicode": "1f32f",
+      "label": "BURRITO",
+      "type": "Food"
+    },
+    {
+      "id": "FALAFEL",
+      "emoji": "🧆",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9c6.svg",
+      "unicode": "1f9c6",
+      "label": "FALAFEL",
+      "type": "Food"
+    },
+    {
+      "id": "EGG",
+      "emoji": "🥚",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f95a.svg",
+      "unicode": "1f95a",
+      "label": "Egg",
+      "type": "Food"
+    },
+    {
+      "id": "COOKING",
+      "emoji": "🍳",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f373.svg",
+      "unicode": "1f373",
+      "label": "Cooking",
+      "type": "Food"
+    },
+    {
+      "id": "SHALLOW_PAN_OF_FOOD",
+      "emoji": "🥘",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f958.svg",
+      "unicode": "1f958",
+      "label": "Shallow pan of foof",
+      "type": "Food"
+    },
+    {
+      "id": "POT_OF_FOOD",
+      "emoji": "🍲",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f372.svg",
+      "unicode": "1f372",
+      "label": "pot of food",
+      "type": "Food"
+    },
+    {
+      "id": "BOWL_WITH_SPOON",
+      "emoji": "🥣",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f963.svg",
+      "unicode": "1f963",
+      "label": "Bowl with spoon",
+      "type": "Food"
+    },
+    {
+      "id": "GREEN_SALAD",
+      "emoji": "🥗",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f957.svg",
+      "unicode": "1f957",
+      "label": "Green salad",
+      "type": "Food"
+    },
+    {
+      "id": "POPCORN",
+      "emoji": "🍿",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f37f.svg",
+      "unicode": "1f37f",
+      "label": "POPCORN",
+      "type": "Food"
+    },
+    {
+      "id": "BUTTER",
+      "emoji": "🧈",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9c8.svg",
+      "unicode": "1f9c8",
+      "label": "butter",
+      "type": "Food"
+    },
+    {
+      "id": "SALT",
+      "emoji": "🧂",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9c2.svg",
+      "unicode": "1f9c2",
+      "label": "SALT",
+      "type": "Food"
+    },
+    {
+      "id": "RICE_BALL",
+      "emoji": "🍙",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f359.svg",
+      "unicode": "1f359",
+      "label": "Rice ball",
+      "type": "Food"
+    },
+    {
+      "id": "CURRY_RICE",
+      "emoji": "🍛",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f35b.svg",
+      "unicode": "1f35b",
+      "label": "Curry rice",
+      "type": "Food"
+    },
+    {
+      "id": "STEAMING_BOWL",
+      "emoji": "🍜",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f35c.svg",
+      "unicode": "1f35c",
+      "label": "Steaming bowl",
+      "type": "Food"
+    },
+    {
+      "id": "SPAGHETTI",
+      "emoji": "🍝",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f35d.svg",
+      "unicode": "1f35d",
+      "label": "Spaghetti",
+      "type": "Food"
+    },
+    {
+      "id": "ODEN",
+      "emoji": "🍢",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f362.svg",
+      "unicode": "1f362",
+      "label": "Oden",
+      "type": "Food"
+    },
+    {
+      "id": "SUSHI",
+      "emoji": "🍣",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f363.svg",
+      "unicode": "1f363",
+      "label": "Sushi",
+      "type": "Food"
+    },
+    {
+      "id": "FRIED_SHRIMP",
+      "emoji": "🍤",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f364.svg",
+      "unicode": "1f364",
+      "label": "Fried shrimp",
+      "type": "Food"
+    },
+    {
+      "id": "FISH_CAKE_WITH_SWIRL",
+      "emoji": "🍥",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f365.svg",
+      "unicode": "1f365",
+      "label": "Fish cake with swirl",
+      "type": "Food"
+    },
+    {
+      "id": "MOON_CAKE",
+      "emoji": "🥮",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f96e.svg",
+      "unicode": "1f96e",
+      "label": "Moon cake",
+      "type": "Food"
+    },
+    {
+      "id": "DANGO",
+      "emoji": "🍡",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f361.svg",
+      "unicode": "1f361",
+      "label": "Dango",
+      "type": "Food"
+    },
+    {
+      "id": "TAKEOUT_BOX",
+      "emoji": "🥡",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f961.svg",
+      "unicode": "1f961",
+      "label": "takeout box",
+      "type": "Food"
+    },
+    {
+      "id": "CRAB",
+      "emoji": "🦀",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f980.svg",
+      "unicode": "1f980",
+      "label": "Crab",
+      "type": "Food"
+    },
+    {
+      "id": "LOBSTER",
+      "emoji": "🦞",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f99e.svg",
+      "unicode": "1f99e",
+      "label": "Lobster",
+      "type": "Food"
+    },
+    {
+      "id": "SHRIMP",
+      "emoji": "🦐",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f990.svg",
+      "unicode": "1f990",
+      "label": "Shrimp",
+      "type": "Food"
+    },
+    {
+      "id": "SQUID",
+      "emoji": "🦑",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f991.svg",
+      "unicode": "1f991",
+      "label": "Squid",
+      "type": "Food"
+    },
+    {
+      "id": "OYSTER",
+      "emoji": "🦪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9aa.svg",
+      "unicode": "1f9aa",
+      "label": "Oyster",
+      "type": "Food"
+    },
+    {
+      "id": "SOFT_ICE_CREAM",
+      "emoji": "🍦",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f366.svg",
+      "unicode": "1f366",
+      "label": "Soft ice cream",
+      "type": "Food"
+    },
+    {
+      "id": "SHAVED_ICE",
+      "emoji": "🍧",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f367.svg",
+      "unicode": "1f367",
+      "label": "Shaved ice",
+      "type": "Food"
+    },
+    {
+      "id": "ICE_CREAM",
+      "emoji": "🍨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f368.svg",
+      "unicode": "1f368",
+      "label": "Ice cream",
+      "type": "Food"
+    },
+    {
+      "id": "DOUGHNUT",
+      "emoji": "🍩",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f369.svg",
+      "unicode": "1f369",
+      "label": "doughnut",
+      "type": "Food"
+    },
+    {
+      "id": "COOKIE",
+      "emoji": "🍪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f36a.svg",
+      "unicode": "1f36a",
+      "label": "Cookie",
+      "type": "Food"
+    },
+    {
+      "id": "BIRTHDAY_CAKE",
+      "emoji": "🎂",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f382.svg",
+      "unicode": "1f382",
+      "label": "Birthday cake",
+      "type": "Food"
+    },
+    {
+      "id": "SHORTCAKE",
+      "emoji": "🍰",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f370.svg",
+      "unicode": "1f370",
+      "label": "Shortcake",
+      "type": "Food"
+    },
+    {
+      "id": "CUPCAKE",
+      "emoji": "🧁",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9c1.svg",
+      "unicode": "1f9c1",
+      "label": "Cupcake",
+      "type": "Food"
+    },
+    {
+      "id": "PIE",
+      "emoji": "🥧",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f967.svg",
+      "unicode": "1f967",
+      "label": "Pie",
+      "type": "Food"
+    },
+    {
+      "id": "CHOCOLATE_BAR",
+      "emoji": "🍫",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f36b.svg",
+      "unicode": "1f36b",
+      "label": "Chocolate bar",
+      "type": "Food"
+    },
+    {
+      "id": "CANDY",
+      "emoji": "🍬",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f36c.svg",
+      "unicode": "1f36c",
+      "label": "Candy",
+      "type": "Food"
+    },
+    {
+      "id": "LOLLILOP",
+      "emoji": "🍭",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f36d.svg",
+      "unicode": "1f36d",
+      "label": "Lollilop",
+      "type": "Food"
+    },
+    {
+      "id": "CUSTARD",
+      "emoji": "🍮",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f36e.svg",
+      "unicode": "1f36e",
+      "label": "CUSTARD",
+      "type": "Food"
+    },
+    {
+      "id": "HONEY_POT",
+      "emoji": "🍯",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f36f.svg",
+      "unicode": "1f36f",
+      "label": "Honey pot",
+      "type": "Food"
+    },
+    {
+      "id": "BABY_BOTTLE",
+      "emoji": "🍼",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f37c.svg",
+      "unicode": "1f37c",
+      "label": "Baby bottle",
+      "type": "Food"
+    },
+    {
+      "id": "GLASS_OF_MILK",
+      "emoji": "🥛",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f95b.svg",
+      "unicode": "1f95b",
+      "label": "Glass of milk",
+      "type": "Food"
+    },
+    {
+      "id": "HOT_BEVERAGE",
+      "emoji": "☕",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/2615.svg",
+      "unicode": "2615",
+      "label": "hot beverage",
+      "type": "Food"
+    },
+    {
+      "id": "TEACUP",
+      "emoji": "🍵",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f375.svg",
+      "unicode": "1f375",
+      "label": "Tea cup",
+      "type": "Food"
+    },
+    {
+      "id": "SAKE",
+      "emoji": "🍶",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f376.svg",
+      "unicode": "1f376",
+      "label": "Sake",
+      "type": "Food"
+    },
+    {
+      "id": "BOOTLE_WITH_POPPING_CORK",
+      "emoji": "🍾",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f37e.svg",
+      "unicode": "1f37e",
+      "label": "Bottle with popping cork",
+      "type": "Food"
+    },
+    {
+      "id": "WINE_GLASS",
+      "emoji": "🍷",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f377.svg",
+      "unicode": "1f377",
+      "label": "Wine glass",
+      "type": "Food"
+    },
+    {
+      "id": "COCKTAIL_GLASS",
+      "emoji": "🍸",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f378.svg",
+      "unicode": "1f378",
+      "label": "Cocktail glass",
+      "type": "Food"
+    },
+    {
+      "id": "TROPICAL_DRINK",
+      "emoji": "🍹",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f379.svg",
+      "unicode": "1f379",
+      "label": "Tropical drink",
+      "type": "Food"
+    },
+    {
+      "id": "BEER_MUG",
+      "emoji": "🍺",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f37a.svg",
+      "unicode": "1f37a",
+      "label": "Beer mug",
+      "type": "Food"
+    },
+    {
+      "id": "CLINCKING_BEER_MUGS",
+      "emoji": "🍻",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f37b.svg",
+      "unicode": "1f37b",
+      "label": "Clincking Beer mug",
+      "type": "Food"
+    },
+    {
+      "id": "CLINCKING_GLASSES",
+      "emoji": "🥂",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f942.svg",
+      "unicode": "1f942",
+      "label": "Clincking glasses",
+      "type": "Food"
+    },
+    {
+      "id": "TUMBLER_GLASS",
+      "emoji": "🥃",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f942.svg",
+      "unicode": "1f943",
+      "label": "Tumbler glass",
+      "type": "Food"
+    },
+    {
+      "id": "CUP_WITH_STRAW",
+      "emoji": "🥤",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f964.svg",
+      "unicode": "1f964",
+      "label": "Cup with straw",
+      "type": "Food"
+    },
+    {
+      "id": "BEVERAGE_BOX",
+      "emoji": "🧃",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9c3.svg",
+      "unicode": "1f9c3",
+      "label": "Beverage box",
+      "type": "Food"
+    },
+    {
+      "id": "MATE",
+      "emoji": "🧉",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9c9.svg",
+      "unicode": "1f9c9",
+      "label": "MATE",
+      "type": "Food"
+    },
+    {
+      "id": "ICE",
+      "emoji": "🧊",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9ca.svg",
+      "unicode": "1f9ca",
+      "label": "ice",
+      "type": "Food"
+    },
+    {
+      "id": "CHOPSTICKS",
+      "emoji": "🥢",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f962.svg",
+      "unicode": "1f962",
+      "label": "chopsticks",
+      "type": "Food"
+    },
+    {
+      "id": "FORK_AND_KNIFE_WITH_PLATE",
+      "emoji": "🍽️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f37d.svg",
+      "unicode": "1f37d",
+      "label": "fork and knife with plate",
+      "type": "Food"
+    },
+    {
+      "id": "FORK_AND_KNIFE",
+      "emoji": "🍴",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f374.svg",
+      "unicode": "1f374",
+      "label": "fork and knife",
+      "type": "Food"
+    },
+    {
+      "id": "SPOON",
+      "emoji": "🥄",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f944.svg",
+      "unicode": "1f944",
+      "label": "Spoon",
+      "type": "Food"
+    },
+    {
+      "id": "KITCHEN_KNIFE",
+      "emoji": "🔪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f52a.svg",
+      "unicode": "1f52a",
+      "label": "Kitchen knife",
+      "type": "Food"
+    },
+    {
+      "id": "AMPHORA",
+      "emoji": "🔪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3fa.svg",
+      "unicode": "1f3fa",
+      "label": "Amphora",
+      "type": "Food"
+    },
+    {
+      "id": "GLOBE_SHOWING_EUROPE_AFRICA",
+      "emoji": "🌍",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f30d.svg",
+      "unicode": "1f30d",
+      "label": "globe showing Europe-Africa",
+      "type": "Travel"
+    },
+    {
+      "id": "GLOBAL_SHOWING_AMERICAS",
+      "emoji": "🌎",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f30e.svg",
+      "unicode": "1f30e",
+      "label": "globe showing Americas",
+      "type": "Travel"
+    },
+    {
+      "id": "GLOBAL_SHOWING_ASIA_AUSTRALIA",
+      "emoji": "🌏",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f30f.svg",
+      "unicode": "1f30f",
+      "label": "globe showing Asia-Australia",
+      "type": "Travel"
+    },
+    {
+      "id": "GLOBAL_WITH_MERIDIANS",
+      "emoji": "🌐",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f310.svg",
+      "unicode": "1f310",
+      "label": "globe with meridians",
+      "type": "Travel"
+    },
+    {
+      "id": "WORLD_MAP",
+      "emoji": "🗺️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f5fa.svg",
+      "unicode": "1f5fa",
+      "label": "World map",
+      "type": "Travel"
+    },
+    {
+      "id": "JAPAN_MAP",
+      "emoji": "🗾",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f5fe.svg",
+      "unicode": "1f5fe",
+      "label": "Japan map",
+      "type": "Travel"
+    },
+    {
+      "id": "COMPASS",
+      "emoji": "🧭",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9ed.svg",
+      "unicode": "1f9ed",
+      "label": "Compass",
+      "type": "Travel"
+    },
+    {
+      "id": "SNOW_MOUNTAIN",
+      "emoji": "🏔️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3d4.svg",
+      "unicode": "1f3d4",
+      "label": "Snow capped moutain",
+      "type": "Travel"
+    },
+    {
+      "id": "MOUNTAIN",
+      "emoji": "⛰️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26f0.svg",
+      "unicode": "26f0",
+      "label": "moutain",
+      "type": "Travel"
+    },
+    {
+      "id": "VOLCANO",
+      "emoji": "🌋",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f30b.svg",
+      "unicode": "1f30b",
+      "label": "Volcano",
+      "type": "Travel"
+    },
+    {
+      "id": "MOUNT_FUJI",
+      "emoji": "🗻",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f5fb.svg",
+      "unicode": "1f5fb",
+      "label": "Mount fuji",
+      "type": "Travel"
+    },
+    {
+      "id": "CAMPING",
+      "emoji": "🏕️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3d5.svg",
+      "unicode": "1f3d5",
+      "label": "Camping",
+      "type": "Travel"
+    },
+    {
+      "id": "BEACH_WITH_UMBRELLA",
+      "emoji": "🏖️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3d6.svg",
+      "unicode": "1f3d6",
+      "label": "Beach with umbrella",
+      "type": "Travel"
+    },
+    {
+      "id": "DESERT",
+      "emoji": "🏜️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3dc.svg",
+      "unicode": "1f3dc",
+      "label": "Desert",
+      "type": "Travel"
+    },
+    {
+      "id": "DESERT_ISLAND",
+      "emoji": "🏝️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3dd.svg",
+      "unicode": "1f3dd",
+      "label": "Desert island",
+      "type": "Travel"
+    },
+    {
+      "id": "NATIONAL_PARK",
+      "emoji": "🏞️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3de.svg",
+      "unicode": "1f3de",
+      "label": "National park",
+      "type": "Travel"
+    },
+    {
+      "id": "STADIUM",
+      "emoji": "🏟️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3df.svg",
+      "unicode": "1f3df",
+      "label": "Stadium",
+      "type": "Travel"
+    },
+    {
+      "id": "CLASSICAL_BUILDING",
+      "emoji": "🏛️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3db.svg",
+      "unicode": "1f3db",
+      "label": "Classical building",
+      "type": "Travel"
+    },
+    {
+      "id": "BUILDING_CONSTRUCTION",
+      "emoji": "🏗️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3d7.svg",
+      "unicode": "1f3d7",
+      "label": "Building construction",
+      "type": "Travel"
+    },
+    {
+      "id": "BRICK",
+      "emoji": "🧱",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9f1.svg",
+      "unicode": "1f9f1",
+      "label": "Brick",
+      "type": "Travel"
+    },
+    {
+      "id": "HOUSES",
+      "emoji": "🏘️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3d8.svg",
+      "unicode": "1f3d8",
+      "label": "Houses",
+      "type": "Travel"
+    },
+    {
+      "id": "HOUSE",
+      "emoji": "🏠",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3e0.svg",
+      "unicode": "1f3e0",
+      "label": "House",
+      "type": "Travel"
+    },
+    {
+      "id": "HOUSE_WITH_GARDEN",
+      "emoji": "🏡",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3e1.svg",
+      "unicode": "1f3e1",
+      "label": "House with garden",
+      "type": "Travel"
+    },
+    {
+      "id": "OFFICE_BUILDING",
+      "emoji": "🏢",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3e2.svg",
+      "unicode": "1f3e2",
+      "label": "Office building",
+      "type": "Travel"
+    },
+    {
+      "id": "JAPANESE_POST_OFFICE",
+      "emoji": "🏢",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3e3.svg",
+      "unicode": "1f3e3",
+      "label": "Japanese post office",
+      "type": "Travel"
+    },
+
+    {
+      "id": "POST_OFFICE",
+      "emoji": "🏤",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3e4.svg",
+      "unicode": "1f3e4",
+      "label": "Post office",
+      "type": "Travel"
+    },
+    {
+      "id": "HOSPITAL",
+      "emoji": "🏥",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3e5.svg",
+      "unicode": "1f3e5",
+      "label": "Hospital",
+      "type": "Travel"
+    },
+    {
+      "id": "BANK",
+      "emoji": "🏦",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3e6.svg",
+      "unicode": "1f3e6",
+      "label": "Bank",
+      "type": "Travel"
+    },
+    {
+      "id": "HOTEL",
+      "emoji": "🏨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3e8.svg",
+      "unicode": "1f3e8",
+      "label": "Hotel",
+      "type": "Travel"
+    },
+    {
+      "id": "LOVE_HOTEL",
+      "emoji": "🏩",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3e9.svg",
+      "unicode": "1f3e9",
+      "label": "Love Hotel",
+      "type": "Travel"
+    },
+    {
+      "id": "SCHOOL",
+      "emoji": "🏫",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3eb.svg",
+      "unicode": "1f3eb",
+      "label": "School",
+      "type": "Travel"
+    },
+    {
+      "id": "DEPARTMENT_STORE",
+      "emoji": "🏬",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3ec.svg",
+      "unicode": "1f3ec",
+      "label": "Department store",
+      "type": "Travel"
+    },
+    {
+      "id": "FACTORY",
+      "emoji": "🏭",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3ed.svg",
+      "unicode": "1f3ed",
+      "label": "Factory",
+      "type": "Travel"
+    },
+    {
+      "id": "JAPANESE_CASTLE",
+      "emoji": "🏯",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3ef.svg",
+      "unicode": "1f3ef",
+      "label": "Japanese castle",
+      "type": "Travel"
+    },
+    {
+      "id": "CASTLE",
+      "emoji": "🏰",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3f0.svg",
+      "unicode": "1f3f0",
+      "label": "Castle",
+      "type": "Travel"
+    },
+    {
+      "id": "WEDDING",
+      "emoji": "💒",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f492.svg",
+      "unicode": "1f492",
+      "label": "Wedding",
+      "type": "Travel"
+    },
+    {
+      "id": "TOKYO_TOWER",
+      "emoji": "🗼",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f5fc.svg",
+      "unicode": "1f5fc",
+      "label": "Tokyo tower",
+      "type": "Travel"
+    },
+    {
+      "id": "STATUE_LIBERTY",
+      "emoji": "🗽",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f5fd.svg",
+      "unicode": "1f5fd",
+      "label": "Statue of Liberty",
+      "type": "Travel"
+    },
+    {
+      "id": "CHURCH",
+      "emoji": "⛪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26ea.svg",
+      "unicode": "26ea",
+      "label": "Church",
+      "type": "Travel"
+    },
+    {
+      "id": "MOSQUE",
+      "emoji": "🕌",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f54c.svg",
+      "unicode": "1f54c",
+      "label": "Mosque",
+      "type": "Travel"
+    },
+    {
+      "id": "HINDI_TEMPLE",
+      "emoji": "🛕",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f6d5.svg",
+      "unicode": "1f6d5",
+      "label": "Hindi temple",
+      "type": "Travel"
+    },
+    {
+      "id": "SHINTO_SHRINE",
+      "emoji": "⛩️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26e9.svg",
+      "unicode": "26e9",
+      "label": "Shinto shrine",
+      "type": "Travel"
+    },
+    {
+      "id": "KAABA",
+      "emoji": "🕋",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f54b.svg",
+      "unicode": "1f54b",
+      "label": "kaaba",
+      "type": "Travel"
+    },
+    {
+      "id": "FOUNTAIN",
+      "emoji": "⛲",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26f2.svg",
+      "unicode": "26f2",
+      "label": "Fountain",
+      "type": "Travel"
+    },
+    {
+      "id": "TENT",
+      "emoji": "⛺",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26fa.svg",
+      "unicode": "26fa",
+      "label": "TENT",
+      "type": "Travel"
+    },
+
+    {
+      "id": "FOGGY",
+      "emoji": "🌁",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f301.svg",
+      "unicode": "1f301",
+      "label": "Foggy",
+      "type": "Travel"
+    },
+    {
+      "id": "NIGHT_WITH_STARS",
+      "emoji": "🌃",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f303.svg",
+      "unicode": "1f303",
+      "label": "Night with stars",
+      "type": "Travel"
+    },
+    {
+      "id": "SUNRISE_OVER_MOUNTAINS",
+      "emoji": "🌄",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f304.svg",
+      "unicode": "1f304",
+      "label": "Sunrise over mountain",
+      "type": "Travel"
+    },
+    {
+      "id": "SUNRISE",
+      "emoji": "🌅",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f305.svg",
+      "unicode": "1f305",
+      "label": "Sunrise",
+      "type": "Travel"
+    },
+    {
+      "id": "CITYSCAPE_AT_DUSK",
+      "emoji": "🌆",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f306.svg",
+      "unicode": "1f306",
+      "label": "Cityscpae at dusk",
+      "type": "Travel"
+    },
+    {
+      "id": "SUNSET",
+      "emoji": "🌇",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f307.svg",
+      "unicode": "1f307",
+      "label": "Sunset",
+      "type": "Travel"
+    },
+    {
+      "id": "BRIDGE_NIGHT",
+      "emoji": "🌉",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f309.svg",
+      "unicode": "1f309",
+      "label": "Bridge night",
+      "type": "Travel"
+    },
+    {
+      "id": "HOT_SPRINGS",
+      "emoji": "♨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/2668.svg",
+      "unicode": "2668",
+      "label": "Hot springs",
+      "type": "Travel"
+    },
+    {
+      "id": "CAROUSEL_HORSE",
+      "emoji": "🎠",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3a0.svg",
+      "unicode": "1f3a0",
+      "label": "CAROUSEL HORSE",
+      "type": "Travel"
+    },
+    {
+      "id": "FERRIS_WHEEL",
+      "emoji": "🎡",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3a1.svg",
+      "unicode": "1f3a1",
+      "label": "ferris wheel",
+      "type": "Travel"
+    },
+    {
+      "id": "ROLLER_COASTER",
+      "emoji": "🎢",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3a2.svg",
+      "unicode": "1f3a2",
+      "label": "roller coaster",
+      "type": "Travel"
+    },
+    {
+      "id": "BARBER_POLE",
+      "emoji": "💈",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f488.svg",
+      "unicode": "1f488",
+      "label": "Barber pole",
+      "type": "Travel"
+    },
+    {
+      "id": "CIRCUS_TENT",
+      "emoji": "🎪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3aa.svg",
+      "unicode": "1f3aa",
+      "label": "Circus tent",
+      "type": "Travel"
+    },
+    {
+      "id": "LOCOMOTIVE",
+      "emoji": "🚂",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f682.svg",
+      "unicode": "1f682",
+      "label": "locomotive",
+      "type": "Travel"
+    },
+    {
+      "id": "RAILWAY_CAR",
+      "emoji": "🚃",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f683.svg",
+      "unicode": "1f683",
+      "label": "railway car",
+      "type": "Travel"
+    },
+    {
+      "id": "HIGH_SPEED_TRAIN",
+      "emoji": "🚄",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f684.svg",
+      "unicode": "1f684",
+      "label": "high-speed train",
+      "type": "Travel"
+    },
+    {
+      "id": "BULLET_TRAIN",
+      "emoji": "🚄",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f685.svg",
+      "unicode": "1f685",
+      "label": "bullet train",
+      "type": "Travel"
+    },
+    {
+      "id": "TRAIN",
+      "emoji": "🚆",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f686.svg",
+      "unicode": "1f686",
+      "label": "train",
+      "type": "Travel"
+    },
+    {
+      "id": "METRO",
+      "emoji": "🚇",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f687.svg",
+      "unicode": "1f687",
+      "label": "Metro",
+      "type": "Travel"
+    },
+    {
+      "id": "TRAM",
+      "emoji": "🚊",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f68a.svg",
+      "unicode": "1f68a",
+      "label": "tram",
+      "type": "Travel"
+    },
+    {
+      "id": "TRAM_CAR",
+      "emoji": "🚋",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f68b.svg",
+      "unicode": "1f68b",
+      "label": "tram car",
+      "type": "Travel"
+    },
+    {
+      "id": "BUS",
+      "emoji": "🚌",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f68c.svg",
+      "unicode": "1f68c",
+      "label": "Bus",
+      "type": "Travel"
+    },
+    {
+      "id": "MINI_BUS",
+      "emoji": "🚐",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f690.svg",
+      "unicode": "1f690",
+      "label": "mini Bus",
+      "type": "Travel"
+    },
+    {
+      "id": "AMBULANCE",
+      "emoji": "🚑",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f691.svg",
+      "unicode": "1f691",
+      "label": "Ambulance",
+      "type": "Travel"
+    },
+    {
+      "id": "FIRE_ENGINE",
+      "emoji": "🚒",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f692.svg",
+      "unicode": "1f692",
+      "label": "Fire engine",
+      "type": "Travel"
+    },
+    {
+      "id": "POLICE_CAR",
+      "emoji": "🚓",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f693.svg",
+      "unicode": "1f693",
+      "label": "Police car",
+      "type": "Travel"
+    },
+    {
+      "id": "ONCOMING_POLICE_CAR",
+      "emoji": "🚔",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f694.svg",
+      "unicode": "1f694",
+      "label": "Oncoming Police car",
+      "type": "Travel"
+    },
+    {
+      "id": "TAXI",
+      "emoji": "🚕",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f695.svg",
+      "unicode": "1f695",
+      "label": "Taxi",
+      "type": "Travel"
+    },
+    {
+      "id": "ONCOMING_TAXI",
+      "emoji": "🚖",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f696.svg",
+      "unicode": "1f696",
+      "label": "Oncoming Taxi",
+      "type": "Travel"
+    },
+    {
+      "id": "AUTOMOBILE",
+      "emoji": "🚗",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f697.svg",
+      "unicode": "1f697",
+      "label": "AUTOMOBILE",
+      "type": "Travel"
+    },
+    {
+      "id": "DELIVERY_TRUCK",
+      "emoji": "🚚",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f69a.svg",
+      "unicode": "1f69a",
+      "label": "Delivry truck",
+      "type": "Travel"
+    },
+    {
+      "id": "TRACTOR",
+      "emoji": "🚜",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f69c.svg",
+      "unicode": "1f69c",
+      "label": "tractor",
+      "type": "Travel"
+    },
+    {
+      "id": " RACING_CAR",
+      "emoji": "🏎️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3ce.svg",
+      "unicode": "1f3ce",
+      "label": "racing car",
+      "type": "Travel"
+    },
+    {
+      "id": " MOTORCYLE",
+      "emoji": "🏍️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f3cd.svg",
+      "unicode": "1f3cd",
+      "label": "motorcycle",
+      "type": "Travel"
+    },
+    {
+      "id": " MANUAL_WHEELCHAIR",
+      "emoji": "🦽",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f9bd.svg",
+      "unicode": "1f9bd",
+      "label": "manual wheelchair",
+      "type": "Travel"
+    },
+    {
+      "id": " BICYCLE",
+      "emoji": "🚲",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f6b2.svg",
+      "unicode": "1f6b2",
+      "label": "bicycle",
+      "type": "Travel"
+    },
+    {
+      "id": " FUEL_PUMP",
+      "emoji": "⛽",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26fd.svg",
+      "unicode": "26fd",
+      "label": "Fuel pump",
+      "type": "Travel"
+    },
+    {
+      "id": " POLICE_CAR_LIGHT",
+      "emoji": "⛽",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f6ab.svg",
+      "unicode": "1f6ab",
+      "label": "police car light",
+      "type": "Travel"
+    },
+    {
+      "id": " VERTICAL_TRAFFIC_LIGHT",
+      "emoji": "🚦",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f6a6.svg",
+      "unicode": "1f6a6",
+      "label": "vertical traffic light",
+      "type": "Travel"
+    },
+    {
+      "id": " STOP_SIGN",
+      "emoji": "🛑",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f6d1.svg",
+      "unicode": "1f6d1",
+      "label": "stop sign",
+      "type": "Travel"
+    },
+    {
+      "id": " CONSTRUCTION",
+      "emoji": "🚧",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f6a7.svg",
+      "unicode": "1f6a7",
+      "label": "construction",
+      "type": "Travel"
+    },
+    {
+      "id": " ANCHOR",
+      "emoji": "⚓",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/2693.svg",
+      "unicode": "2693",
+      "label": "Anchor",
+      "type": "Travel"
+    },
+    {
+      "id": " SAILBOAT",
+      "emoji": "⛵",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/26f5.svg",
+      "unicode": "26f5",
+      "label": "Sailboat",
+      "type": "Travel"
+    },
+    {
+      "id": "CANOE",
+      "emoji": "🛶",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f6f6.svg",
+      "unicode": "1f6f6",
+      "label": "CANOE",
+      "type": "Travel"
+    },
+    {
+      "id": "SHIP",
+      "emoji": "🚢",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f6a2.svg",
+      "unicode": "1f6a2",
+      "label": "Ship",
+      "type": "Travel"
+    },
+    {
+      "id": "AIRPLANE",
+      "emoji": "✈️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/2708.svg",
+      "unicode": "2708",
+      "label": "Airplane",
+      "type": "Travel"
+    },
+    {
+      "id": "HELICOPTER",
+      "emoji": "🚁",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f681.svg",
+      "unicode": "1f681",
+      "label": "helicopter",
+      "type": "Travel"
+    },
+    {
+      "id": "SATELLITE",
+      "emoji": "🛰️",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f6f0.svg",
+      "unicode": "1f6f0",
+      "label": "satellite",
+      "type": "Travel"
+    },
+    {
+      "id": "ROCKET",
+      "emoji": "🚀",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f680.svg",
+      "unicode": "1f680",
+      "label": "rocket",
+      "type": "Travel"
+    },
+    {
+      "id": "flag: Ascension Island",
+      "emoji": "🇦🇨",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e6-1f1e8.svg",
+      "unicode": "1f1e6-1f1e8",
+      "label": "flag: Ascension Island",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Andorra",
+      "emoji": "🇦🇩",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e6-1f1e9.svg",
+      "unicode": "1f1e6-1f1e9",
+      "label": "flag: Andorra",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: United Arab Emirates",
+      "emoji": "🇦🇪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e6-1f1ea.svg",
+      "unicode": "1f1e6-1f1ea",
+      "label": "flag: United Arab Emirates",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Afghanistan",
+      "emoji": "🇦🇫",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e6-1f1eb.svg",
+      "unicode": "1f1e6-1f1eb",
+      "label": "flag: Afghanistan",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Argentina",
+      "emoji": "🇦🇷",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e6-1f1f7.svg",
+      "unicode": "1f1e6-1f1f7",
+      "label": "flag: Argentina",
+      "type": "Flags"
+    },
+
+    {
+      "id": "flag: Australia",
+      "emoji": "🇦🇺",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e6-1f1fa.svg",
+      "unicode": "1f1e6-1f1fa",
+      "label": "flag: Australia",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Bangladesh",
+      "emoji": "🇧🇩",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e7-1f1e9.svg",
+      "unicode": "1f1e7-1f1e9",
+      "label": "flag: Bangladesh",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Belgium",
+      "emoji": "🇧🇪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e7-1f1ea.svg",
+      "unicode": "1f1e7-1f1ea",
+      "label": "flag: Belgium",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: United States",
+      "emoji": "🇺🇸",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1fa-1f1f8.svg",
+      "unicode": "1f1fa-1f1f8",
+      "label": "flag: United States",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Russia",
+      "emoji": "🇷🇺",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f7-1f1fa.svg",
+      "unicode": "1f1f7-1f1fa",
+      "label": "flag: Russia",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Morocco",
+      "emoji": "🇲🇦",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f2-1f1e6.svg",
+      "unicode": "1f1f2-1f1e6",
+      "label": "flag: Morocco",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: India",
+      "emoji": "🇮🇳",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1ee-1f1f3.svg",
+      "unicode": "1f1ee-1f1f3",
+      "label": "flag: India",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Algeria",
+      "emoji": "🇩🇿",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e9-1f1ff.svg",
+      "unicode": "1f1e9-1f1ff",
+      "label": "flag: Algeria",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Burkina Faso",
+      "emoji": "🇧🇫",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e7-1f1eb.svg",
+      "unicode": "1f1e7-1f1eb",
+      "label": "flag: Burkina Faso",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Bulgaria",
+      "emoji": "🇧🇬",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e7-1f1ec.svg",
+      "unicode": "1f1e7-1f1ec",
+      "label": "flag: Bulgaria",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Bahrain",
+      "emoji": "🇧🇭",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e7-1f1ed.svg",
+      "unicode": "1f1e7-1f1ed",
+      "label": "flag: Bahrain",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Burundi",
+      "emoji": "🇧🇮",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e7-1f1ee.svg",
+      "unicode": "1f1e7-1f1ee",
+      "label": "flag: Burundi",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Benin",
+      "emoji": "🇧🇯",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e7-1f1ef.svg",
+      "unicode": "1f1e7-1f1ef",
+      "label": "flag: Benin",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Bolivia",
+      "emoji": "🇧🇴",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e7-1f1f4.svg",
+      "unicode": "1f1e7-1f1f4",
+      "label": "flag: Bolivia",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Brazil",
+      "emoji": "🇧🇷",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e7-1f1f7.svg",
+      "unicode": "1f1e7-1f1f7",
+      "label": "flag: Brazil",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Bouvet Island",
+      "emoji": "🇧🇻",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e7-1f1fb.svg",
+      "unicode": "1f1e7-1f1fb",
+      "label": "flag: Bouvet Island",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Canada",
+      "emoji": "🇨🇦",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e8-1f1e6.svg",
+      "unicode": "1f1e8-1f1e6",
+      "label": "flag: Canada",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Switzerland",
+      "emoji": "🇨🇭",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e8-1f1ed.svg",
+      "unicode": "1f1e8-1f1ed",
+      "label": "flag: Switzerland",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Côte d’Ivoire",
+      "emoji": "🇨🇮",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e8-1f1ee.svg",
+      "unicode": "1f1e8-1f1ee",
+      "label": "flag: Côte d’Ivoire",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: China",
+      "emoji": "🇨🇳",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e8-1f1f3.svg",
+      "unicode": "1f1e8-1f1f3",
+      "label": "flag: China",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Germany",
+      "emoji": "🇩🇪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e9-1f1ea.svg",
+      "unicode": "1f1e9-1f1ea",
+      "label": "flag: Germany",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Egypt",
+      "emoji": "🇪🇬",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1ea-1f1ec.svg",
+      "unicode": "1f1ea-1f1ec",
+      "label": "flag: Egypt",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Spain",
+      "emoji": "🇪🇸",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1ea-1f1f8.svg",
+      "unicode": "1f1ea-1f1f8",
+      "label": "flag: Spain",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: France",
+      "emoji": "🇫🇷",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1eb-1f1f7.svg",
+      "unicode": "1f1eb-1f1f7",
+      "label": "flag: France",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: United Kingdom",
+      "emoji": "🇬🇧",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1ec-1f1e7.svg",
+      "unicode": "1f1ec-1f1e7",
+      "label": "flag: United Kingdom",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Japan",
+      "emoji": "🇯🇵",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1ef-1f1f5.svg",
+      "unicode": "1f1ef-1f1f5",
+      "label": "flag: Japan",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Palestinian Territories",
+      "emoji": "🇵🇸",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f5-1f1f8.svg",
+      "unicode": "1f1f5-1f1f8",
+      "label": "flag: Palestinian Territories",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Tunisia",
+      "emoji": "🇹🇳",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f9-1f1f3.svg",
+      "unicode": "1f1f9-1f1f3",
+      "label": "flag: Tunisia",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Turkey",
+      "emoji": "🇹🇷",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f9-1f1f7.svg",
+      "unicode": "1f1f9-1f1f7",
+      "label": "flag: Turkey",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Singapore",
+      "emoji": "🇸🇬",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f8-1f1ec.svg",
+      "unicode": "1f1f8-1f1ec",
+      "label": "flag: Singapore",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Sweden",
+      "emoji": "🇸🇪",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f8-1f1ea.svg",
+      "unicode": "1f1f8-1f1ea",
+      "label": "flag: Sweden",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Saudi Arabia",
+      "emoji": "🇸🇦",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f8-1f1e6.svg",
+      "unicode": "1f1f8-1f1e6",
+      "label": "flag: Saudi Arabia",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Portugal",
+      "emoji": "🇵🇹",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f5-1f1f9.svg",
+      "unicode": "1f1f5-1f1f9",
+      "label": "flag: Portugal",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Maldives",
+      "emoji": "🇲🇻",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f2-1f1fb.svg",
+      "unicode": "1f1f2-1f1fb",
+      "label": "flag: Maldives",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: South Korea",
+      "emoji": "🇰🇷",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f0-1f1f7.svg",
+      "unicode": "1f1f0-1f1f7",
+      "label": "flag: South Korea",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: Netherlands",
+      "emoji": "🇳🇱",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f3-1f1f1.svg",
+      "unicode": "1f1f3-1f1f1",
+      "label": "flag: Netherlands",
+      "type": "Flags"
+    },
+    {
+      "id": "flag: South Africa",
+      "emoji": "🇿🇦",
+      "svg": "https://twemoji.maxcdn.com/v/13.0.1/svg/1f1ff-1f1e6.svg",
+      "unicode": "1f1ff-1f1e6",
+      "label": "flag: South Africa",
+      "type": "Flags"
+    }
+  ]
+}
